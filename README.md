@@ -24,13 +24,6 @@ model, select the thread count, and decide whether to run on CPU,GPU or via a ne
 *   USB cable (to connect Android device to your computer)
 
 
-<aside class="note"><b>Note:</b><p>`build.gradle` is configured to use
-TensorFlow Lite's nightly build.</p><p>If you see a build error related to
-compatibility with Tensorflow Lite's Java API (for example, `method X is
-undefined for type Interpreter`), there has likely been a backwards compatible
-change to the API. You will need to run `git pull` in the examples repo to
-obtain a version that is compatible with the nightly build.</p></aside>
-
 ### Model 
 
 The model traine is a simple CNN model done using python in Tensorflow Framework.
