@@ -13,13 +13,6 @@ classifications. It allows the user to choose between a floating point or
 model, select the thread count, and decide whether to run on CPU, GPU, or via
 [NNAPI](https://developer.android.com/ndk/guides/neuralnetworks).
 
-These instructions walk you through building and
-running the demo on an Android device. For an explanation of the source, see
-[TensorFlow Lite Android image classification example](https://www.tensorflow.org/lite/models/image_classification/android).
-
-<!-- TODO(b/124116863): Add app screenshot. -->
-
-
 
 ## Requirements
 
