@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/6aadaa9be694291c6a51322e44fb9bb4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/2f2170c55fe72eb04102a4b4149ae5f8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/63a3d5171949836e34161f77cff0ab6b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/bfb69cd4c27615385cd936c84b6cc901/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/bb37b48bf134169b70a1e47362d9b91b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/b4630744a2b78058f5c6344498994bbf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/c456f18b260213fc4ad292fa6e53e4da/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-support-0.0.0-nightly.aar/46e93e3f937fe556f41df0d2683866e4/AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/b79dc2859e5054dca890b4b74210d05c/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-gpu-0.0.0-nightly.aar/da2270b67e05f38628dc42d1b4512f2a/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/c90b021d4d4a69d21d2b6f1f2dd45673/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/0a71431802dced3ba6ca1a140b3cf330/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/dbdb43d6f05d3cf64a467ceb23b5c988/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f55ac8917c28e0b98bac656d11121bd3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/8fbeca5bac04da5a38ed0beb1307c4e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8f2bae0f8818419bea1060e2060766b4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/48de59956d8451e5e13fd30c3444684d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a0b336bde65fb4ad6cf5da6fa9e6d24a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/85b4c17ab1a052bc6fbadf4e41ca02fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/52bf927b51e37a4490bc8251fe0d9e3d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/cb92288c05df8e2ee29d42bb306aa6ba/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/61005457b29ff2ae627d067ebe48b6c7/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1fd600a4917f6d1989e226d0f24f3924/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/1e196fede5cc504006d34b4fc0cd2e45/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/4c56be354c758987329fcfb615fd3d4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/92eda18d2730decd66aa37feb36788f9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/75a22808e3304225cda2a3161c382819/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/8e9d3758827203b1bb13e409705d44d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/07dea903eb37ea0266134552fc836691/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/43d33c778ffa7c41cbb695f92f2dc1d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/166fb5722057c5c26732b651f6148878/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/e317baa3c2786769dc264117d2f6289f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/de43aee5a9a1099c5ec2d5764995b14a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:2:5-58
+		INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:4:5-17
+INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:4:5-17
+INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:4:5-17
+MERGED from [com.google.android.material:material:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/6aadaa9be694291c6a51322e44fb9bb4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/6aadaa9be694291c6a51322e44fb9bb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/2f2170c55fe72eb04102a4b4149ae5f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/2f2170c55fe72eb04102a4b4149ae5f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/63a3d5171949836e34161f77cff0ab6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/63a3d5171949836e34161f77cff0ab6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/bfb69cd4c27615385cd936c84b6cc901/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/bfb69cd4c27615385cd936c84b6cc901/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/bb37b48bf134169b70a1e47362d9b91b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/bb37b48bf134169b70a1e47362d9b91b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/b4630744a2b78058f5c6344498994bbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/b4630744a2b78058f5c6344498994bbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/c456f18b260213fc4ad292fa6e53e4da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/c456f18b260213fc4ad292fa6e53e4da/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-support-0.0.0-nightly.aar/46e93e3f937fe556f41df0d2683866e4/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-support-0.0.0-nightly.aar/46e93e3f937fe556f41df0d2683866e4/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/b79dc2859e5054dca890b4b74210d05c/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/b79dc2859e5054dca890b4b74210d05c/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-gpu-0.0.0-nightly.aar/da2270b67e05f38628dc42d1b4512f2a/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-gpu-0.0.0-nightly.aar/da2270b67e05f38628dc42d1b4512f2a/AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/c90b021d4d4a69d21d2b6f1f2dd45673/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/c90b021d4d4a69d21d2b6f1f2dd45673/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/0a71431802dced3ba6ca1a140b3cf330/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/0a71431802dced3ba6ca1a140b3cf330/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/dbdb43d6f05d3cf64a467ceb23b5c988/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/dbdb43d6f05d3cf64a467ceb23b5c988/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f55ac8917c28e0b98bac656d11121bd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f55ac8917c28e0b98bac656d11121bd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/8fbeca5bac04da5a38ed0beb1307c4e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/8fbeca5bac04da5a38ed0beb1307c4e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8f2bae0f8818419bea1060e2060766b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8f2bae0f8818419bea1060e2060766b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/48de59956d8451e5e13fd30c3444684d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/48de59956d8451e5e13fd30c3444684d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a0b336bde65fb4ad6cf5da6fa9e6d24a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/a0b336bde65fb4ad6cf5da6fa9e6d24a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/85b4c17ab1a052bc6fbadf4e41ca02fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/85b4c17ab1a052bc6fbadf4e41ca02fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/52bf927b51e37a4490bc8251fe0d9e3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/52bf927b51e37a4490bc8251fe0d9e3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/cb92288c05df8e2ee29d42bb306aa6ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/cb92288c05df8e2ee29d42bb306aa6ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/61005457b29ff2ae627d067ebe48b6c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/61005457b29ff2ae627d067ebe48b6c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1fd600a4917f6d1989e226d0f24f3924/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1fd600a4917f6d1989e226d0f24f3924/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/1e196fede5cc504006d34b4fc0cd2e45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/1e196fede5cc504006d34b4fc0cd2e45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/4c56be354c758987329fcfb615fd3d4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/4c56be354c758987329fcfb615fd3d4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/92eda18d2730decd66aa37feb36788f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/92eda18d2730decd66aa37feb36788f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/75a22808e3304225cda2a3161c382819/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/75a22808e3304225cda2a3161c382819/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/8e9d3758827203b1bb13e409705d44d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/8e9d3758827203b1bb13e409705d44d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/07dea903eb37ea0266134552fc836691/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/07dea903eb37ea0266134552fc836691/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/43d33c778ffa7c41cbb695f92f2dc1d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/43d33c778ffa7c41cbb695f92f2dc1d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/166fb5722057c5c26732b651f6148878/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/166fb5722057c5c26732b651f6148878/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/e317baa3c2786769dc264117d2f6289f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/e317baa3c2786769dc264117d2f6289f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/de43aee5a9a1099c5ec2d5764995b14a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/de43aee5a9a1099c5ec2d5764995b14a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:4:5-17
+INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:4:5-17
+	android:targetSdkVersion
+		INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:4:5-17
+		INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:4:5-17
+		MERGED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:4:5-17
+		MERGED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:4:5-17
+		INJECTED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:9:19-67
+application
+ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:12:5-28:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/6aadaa9be694291c6a51322e44fb9bb4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/6aadaa9be694291c6a51322e44fb9bb4/AndroidManifest.xml:22:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/b79dc2859e5054dca890b4b74210d05c/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/b79dc2859e5054dca890b4b74210d05c/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-gpu-0.0.0-nightly.aar/da2270b67e05f38628dc42d1b4512f2a/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-gpu-0.0.0-nightly.aar/da2270b67e05f38628dc42d1b4512f2a/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/cb92288c05df8e2ee29d42bb306aa6ba/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/cb92288c05df8e2ee29d42bb306aa6ba/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/61005457b29ff2ae627d067ebe48b6c7/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/61005457b29ff2ae627d067ebe48b6c7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/jathiswarbhaskar/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/cb92288c05df8e2ee29d42bb306aa6ba/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:15:9-61
+	android:roundIcon
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:16:9-43
+	android:icon
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:18:9-40
+activity#org.mytest.lite.examples.classification.ClassifierActivity
+ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:screenOrientation
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:21:13-53
+	android:name
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:20:13-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/jathiswarbhaskar/Desktop/Covid App Final/app/src/main/AndroidManifest.xml:25:27-74
