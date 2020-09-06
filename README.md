@@ -16,7 +16,7 @@ model, select the thread count, and decide whether to run on CPU, GPU, or via
 
 ## Requirements
 
-*   Android Studio 3.2 (installed on a Linux, Mac or Windows machine)
+*   Android Studio 3.2 
 
 *   Android device in
     [developer mode](https://developer.android.com/studio/debug/dev-options)
