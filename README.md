@@ -31,3 +31,11 @@ You can download the dataset at https://www.kaggle.com/paultimothymooney/chest-x
 To convert from TF to TFlite you can use https://www.youtube.com/watch?v=MZx1fhbL2q4
 
 
+<img src="https://github.com/JATHISWAR/Pneumonia_detector_TFLite/blob/master/Screenshot%202020-09-06%20at%201.01.20%20PM.png" width="200" height="400">
+
+<img src="https://github.com/JATHISWAR/Pneumonia_detector_TFLite/blob/master/Screenshot%202020-09-06%20at%201.01.38%20PM.png" width="200" height="400">
+
+<img src="https://github.com/JATHISWAR/Pneumonia_detector_TFLite/blob/master/Screenshot%202020-09-06%20at%201.01.48%20PM.png" width="200" height="400">
+
+
+
