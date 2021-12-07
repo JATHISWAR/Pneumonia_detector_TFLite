@@ -26,7 +26,7 @@ model, select the thread count, and decide whether to run on CPU,GPU or via a ne
 
 ### Model 
 
-The model traine is a simple CNN model done using python in Tensorflow Framework.
+The model trained is a simple CNN model done using python in Tensorflow Framework.
 You can download the dataset at https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 To convert from TF to TFlite you can use https://www.youtube.com/watch?v=MZx1fhbL2q4
 
